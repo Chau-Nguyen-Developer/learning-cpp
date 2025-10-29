@@ -1,6 +1,11 @@
 # Learning C++
 This is the repository for the LinkedIn Learning course `Learning C++`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+LinkedIn course Link: https://www.linkedin.com/learning/learning-c-plus-plus-22993675/  
+
+GitHub link for materials and coding exercise: https://github.com/LinkedInLearning/learning-cpp-4489005  
+
+
 ![lil-thumbnail-url]
 
 C++ is one of the most powerful and widely used programming languages of all time. It is also one of the oldest programming languages in use today. In this course, learn the basic elements of this object-oriented programming language that moves the world. Instructor Eduardo Corpeño begins with setting up the development environment and introducing the basic elements of object-oriented programming. Eduardo covers data types such as variables, expressions, assignments, constants, and more. He explains structures, classes, pointers, vectors, and so on. After stepping through the control flow process and a variety of useful functions, Eduardo finishes up with detailed information on opening and working with files.
