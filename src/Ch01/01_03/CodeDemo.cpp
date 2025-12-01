@@ -1,15 +1,15 @@
-// Learning C++ 
-// Challenge 01_03
-// Console Interaction, by Eduardo Corpeño 
+// // Learning C++ 
+// // Challenge 01_03
+// // Console Interaction, by Eduardo Corpeño 
 
-#include <iostream>
-#include <string>
+// #include <iostream>
+// #include <string>
 
-int main(){
-    std::string str;
-    std::cin >> str;
-    std::cout << str;
+// int main(){
+//     std::string str;
+//     std::cin >> str;
+//     std::cout << str;
 
-    std::cout << std::endl << std::endl;
-    return (0);
-}
+//     std::cout << std::endl << std::endl;
+//     return (0);
+// }
