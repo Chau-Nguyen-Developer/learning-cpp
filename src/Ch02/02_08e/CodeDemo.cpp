@@ -11,21 +11,30 @@ int main(){
 
     int age[AGE_LENGTH];
     float temperature[] = {31.5, 32.7, 38.9};
+    int chau[AGE_LENGTH] = {1, 2, 3};
+    std::cout << "chau[3] " << chau[3] << std::endl;
 
-    age[0] = 25;
-    age[1] = 20;
-    age[2] = 19;
-    age[3] = 19;
+    int temp[AGE_LENGTH] = {113,150};
+    std::cout << "temp[0] " << temp[0] << std::endl;
+    std::cout << "temp[2] " << temp[2] << std::endl;
 
-    std::cout << "The Age array has " << AGE_LENGTH << " elements." << std::endl;
-    std::cout << "Age[0] = " << age[0] << std::endl;
-    std::cout << "Age[1] = " << age[1] << std::endl;
-    std::cout << "Age[2] = " << age[2] << std::endl;
-    std::cout << "Age[3] = " << age[3] << std::endl;
-    std::cout << std::endl;
-    std::cout << "Temp[0] = " << temperature[0] << std::endl;
-    std::cout << "Temp[1] = " << temperature[1] << std::endl;
-    std::cout << "Temp[2] = " << temperature[2] << std::endl;
+    int tempt2[AGE_LENGTH];
+    std::cout << "temp2[0] " << tempt2[0] << std::endl;
+
+    // age[0] = 25;
+    // age[1] = 20;
+    // age[2] = 19;
+    // age[3] = 19;
+
+    // std::cout << "The Age array has " << AGE_LENGTH << " elements." << std::endl;
+    // std::cout << "Age[0] = " << age[0] << std::endl;
+    // std::cout << "Age[1] = " << age[1] << std::endl;
+    // std::cout << "Age[2] = " << age[2] << std::endl;
+    // std::cout << "Age[3] = " << age[3] << std::endl;
+    // std::cout << std::endl;
+    // std::cout << "Temp[0] = " << temperature[0] << std::endl;
+    // std::cout << "Temp[1] = " << temperature[1] << std::endl;
+    // std::cout << "Temp[2] = " << temperature[2] << std::endl;
 
     std::cout << std::endl << std::endl;
     return (0);
